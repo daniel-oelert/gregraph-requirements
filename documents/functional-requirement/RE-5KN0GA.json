@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:90e1436f133a40f3cac6f14adf8da816bad7d397e19ec99a2b25a79d9d24dfc5",
+  "created": "2026-10-08T23:59:24Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-5KN0GA",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "status reports WIP, drafts, and unbumped modifications",
+  "type": "functional-requirement",
+  "uuid": "2cea0828-bea5-49e2-9bbe-73df026dae9e",
+  "version": 2
+}

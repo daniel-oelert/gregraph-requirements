@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:1f5d459b1dc8d9f76676df31e0952932aa7e3c890a30acb2e0e40a8b616745ad",
+  "created": "2026-10-08T23:59:22Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-BWBF33",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "The pre-commit hook blocks newly outdated links",
+  "type": "functional-requirement",
+  "uuid": "5f16f18e-0146-485a-a59e-09dce3c90fb6",
+  "version": 2
+}

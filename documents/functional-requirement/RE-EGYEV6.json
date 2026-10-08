@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:d34e65f96d3d64f5370e057e26c737ea70119d6f6d3ebf65cdf11a296397408f",
+  "created": "2026-10-08T23:59:24Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-EGYEV6",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Glossary terms are slug-identified with usage reports",
+  "type": "functional-requirement",
+  "uuid": "743ced99-a102-4252-8cf5-4b696e55e85e",
+  "version": 2
+}

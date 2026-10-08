@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:37b0cdc8867bec3da4d543e95cb4b7a88648adae8d5587aea794808244ba3159",
+  "created": "2026-10-08T23:59:20Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-EH4ZTP",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Identifiers are never reused",
+  "type": "functional-requirement",
+  "uuid": "7449fd58-b730-4736-9e6b-3ce8a99de5f4",
+  "version": 2
+}

@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:8b18de81d8127bffdd4dfb92f8c36664b0a4655d12c7f1a2871eb951d5ebdfe4",
+  "created": "2026-10-08T23:59:21Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-QN5QSH",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Cycle-creating links are refused with the cycle path",
+  "type": "functional-requirement",
+  "uuid": "bd4b7cc7-31a3-4b83-8bf4-e6a17cf10ad9",
+  "version": 2
+}

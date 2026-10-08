@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:9de8bc73ae941076ba6d988d19488000c70f4da052ca9a3b1b93f5e9228dc657",
+  "created": "2026-10-08T23:59:22Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-5JQ3QE",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "sync bumps versions without Git",
+  "type": "functional-requirement",
+  "uuid": "2cae3bb8-04f4-4965-8705-fde1cc435dab",
+  "version": 2
+}

@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:6f2cf78968f7e4b83ad257a0b5e1a0999cdeda62f62c6d50920aa7240d45f7ef",
+  "created": "2026-10-08T23:59:21Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-6V9J08",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Kind-rule violations are refused with the rule named",
+  "type": "functional-requirement",
+  "uuid": "36d32020-e5a1-40ea-ae7d-01bf08ea813a",
+  "version": 2
+}

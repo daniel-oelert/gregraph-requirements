@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:c5b168c03efe43386fa6ab376e0f8f2bc65425e030f335b4d7861160b0a37106",
+  "created": "2026-10-08T23:59:23Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-9WB3XD",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Deprecated template versions warn per document",
+  "type": "functional-requirement",
+  "uuid": "4f163eb4-8151-478c-a789-16cd05281184",
+  "version": 2
+}
