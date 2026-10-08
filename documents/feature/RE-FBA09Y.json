@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:02a175f560b20d4a4ff2fff6f3cc02a19d48edb385951183584b7c96d1c25f4b",
+  "created": "2026-10-08T23:59:18Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FBA09Y",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "feature",
+    "version": 1
+  },
+  "title": "Glossary outside the graph",
+  "type": "feature",
+  "uuid": "7ad404fb-b559-493d-9a54-bf32241e9f95",
+  "version": 2
+}

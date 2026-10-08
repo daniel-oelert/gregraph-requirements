@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:267f187b06de71148fbdfd8e7dc9a69dfa556f7ed049dec1d886f8ba0463c4a3",
+  "created": "2026-10-08T23:59:18Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-0WHH13",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "feature",
+    "version": 1
+  },
+  "title": "Change requests outside the graph",
+  "type": "feature",
+  "uuid": "0723108d-300a-4ba1-a06d-085c4e87b273",
+  "version": 2
+}

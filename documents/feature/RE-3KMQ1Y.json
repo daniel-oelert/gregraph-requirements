@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:2928bd81b1654bfde9e68d388109866d8716a7d3737d77c1af3102db1b19236f",
+  "created": "2026-10-08T23:59:17Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-3KMQ1Y",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "feature",
+    "version": 1
+  },
+  "title": "Content versioning and link freshness",
+  "type": "feature",
+  "uuid": "1ce970fb-f4e8-4918-9b50-0de3ff0cc50c",
+  "version": 2
+}
