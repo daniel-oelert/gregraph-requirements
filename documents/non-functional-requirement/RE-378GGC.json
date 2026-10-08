@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:0aa48f83621b4a646e7fd2e09b84714e86973cef7d73d285217ea88466cc1f63",
+  "created": "2026-10-08T23:59:27Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-378GGC",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Validate 5,000 documents within 5 seconds",
+  "type": "non-functional-requirement",
+  "uuid": "19d10831-68df-46a3-aa62-fd4c3c42abae",
+  "version": 2
+}

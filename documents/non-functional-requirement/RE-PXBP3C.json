@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:cbd63e8d3906d1fff0792627a894b1b82afaff8eab9441e7706595633784cfe0",
+  "created": "2026-10-08T23:59:28Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-PXBP3C",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Byte-identical canonical sidecars",
+  "type": "non-functional-requirement",
+  "uuid": "b75761b2-89cd-45cd-9084-cf4811b7f056",
+  "version": 2
+}

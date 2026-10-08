@@ -49,3 +49,9 @@ Provisional design-appendix-A keys to generated GREGraph identifiers
 | BOOT-126 | RE-WR1S6W | functional-requirement | origin_cr and introduces are recorded with --cr |
 | BOOT-127 | RE-NXSV09 | functional-requirement | Effective change request status comes from the baseline branch |
 | BOOT-128 | RE-7426ND | functional-requirement | The hook ignores drift and CR scope changes |
+| BOOT-200 | RE-378GGC | non-functional-requirement | Validate 5,000 documents within 5 seconds |
+| BOOT-201 | RE-H2Q16N | non-functional-requirement | Only pydantic, jinja2, and markdown-it-py at runtime |
+| BOOT-202 | RE-PXBP3C | non-functional-requirement | Byte-identical canonical sidecars |
+| BOOT-203 | RE-SDJ080 | non-functional-requirement | Core operations without console I/O |
+| BOOT-204 | RE-WSC7DQ | non-functional-requirement | Linux, macOS, and Windows on Python 3.12+ |
+| BOOT-205 | RE-S399BD | constraint | No network communication |

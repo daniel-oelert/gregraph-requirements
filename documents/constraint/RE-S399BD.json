@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:63b633640d2ce7340c211c6dd44f433f079c94831e5afefa74c993c96ba60877",
+  "created": "2026-10-08T23:59:29Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-S399BD",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "constraint",
+    "version": 1
+  },
+  "title": "No network communication",
+  "type": "constraint",
+  "uuid": "c8d295b6-f4ba-4318-a768-2b8b8b339f86",
+  "version": 2
+}
