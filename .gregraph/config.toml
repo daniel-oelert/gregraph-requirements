@@ -1,0 +1,76 @@
+[gregraph]
+config_schema = 1
+tool_version = "0.1.1"
+
+[ids]
+prefix = "RE"
+
+[git]
+baseline_branch = "main"
+
+[versioning]
+on_outdated_links = "block"
+on_cr_modified = "warn"
+
+[graph]
+open_conflicts = "warn"
+
+[assets]
+max_size_kb = 5120
+
+[types.context]
+kind = "goal"
+template = "context"
+
+[types.goal]
+kind = "goal"
+template = "goal"
+
+[types.epic]
+kind = "goal"
+template = "epic"
+
+[types.feature]
+kind = "requirement"
+template = "feature"
+
+[types.user-story]
+kind = "requirement"
+template = "user-story"
+
+[types.functional-requirement]
+kind = "requirement"
+template = "requirement-ears"
+
+[types.non-functional-requirement]
+kind = "requirement"
+template = "requirement-ears"
+
+[types.constraint]
+kind = "requirement"
+template = "constraint"
+
+[types.design]
+kind = "design"
+template = "design"
+
+[types.decision]
+kind = "design"
+template = "decision"
+
+[types.test-case]
+kind = "verification"
+template = "test-case"
+
+[types.stakeholder]
+kind = "information"
+template = "stakeholder"
+
+[types.assumption]
+kind = "information"
+template = "assumption"
+
+[cr]
+enabled = true
+template = "change-request"
+deciders = []

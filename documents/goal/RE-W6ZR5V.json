@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:ce2236ca2738bc3a14e6ac83bef497e7d00dd33fdd191f5deccd1ec0cee55b6d",
+  "created": "2026-10-08T23:59:16Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-W6ZR5V",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "goal",
+    "version": 1
+  },
+  "title": "Serve teams of up to 20 engineers without a server",
+  "type": "goal",
+  "uuid": "e1bf82ee-c0e8-4fa7-aa72-3323aeba1d95",
+  "version": 2
+}
