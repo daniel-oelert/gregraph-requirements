@@ -9,7 +9,13 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-378GGC",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-W6ZR5V",
+      "target_version": 2,
+      "type": "constrains"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

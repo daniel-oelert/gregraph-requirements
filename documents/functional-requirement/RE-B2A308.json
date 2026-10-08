@@ -9,7 +9,13 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-B2A308",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-CQCF1R",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

@@ -9,7 +9,13 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-JR0NFT",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-YFEE3Q",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

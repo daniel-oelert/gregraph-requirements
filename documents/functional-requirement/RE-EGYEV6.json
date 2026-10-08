@@ -9,7 +9,13 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-EGYEV6",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-FBA09Y",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

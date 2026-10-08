@@ -9,7 +9,13 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-WR1S6W",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-0WHH13",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

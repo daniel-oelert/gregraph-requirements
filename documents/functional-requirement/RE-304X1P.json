@@ -9,7 +9,13 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-304X1P",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-3YE8G3",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

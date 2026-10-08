@@ -9,7 +9,13 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-H2Q16N",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-N33YEH",
+      "target_version": 2,
+      "type": "constrains"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

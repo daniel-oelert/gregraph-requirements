@@ -9,7 +9,18 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-VSNXNW",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-0WHH13",
+      "target_version": 2,
+      "type": "refines"
+    },
+    {
+      "target": "RE-3KVA84",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],

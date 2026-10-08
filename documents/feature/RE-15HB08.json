@@ -9,7 +9,18 @@
   "deprecated": null,
   "extra": {},
   "id": "RE-15HB08",
-  "links": [],
+  "links": [
+    {
+      "target": "RE-3KVA84",
+      "target_version": 2,
+      "type": "refines"
+    },
+    {
+      "target": "RE-N33YEH",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
   "origin_cr": null,
   "schema": 1,
   "tags": [],
