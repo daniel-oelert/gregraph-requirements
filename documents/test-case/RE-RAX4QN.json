@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:74a177ab1a1ba293dfc0ba21aa4a5f0a4b099a0f16c8b1884ea6c6e95ea54b12",
+  "created": "2026-10-08T23:59:46Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-RAX4QN",
+  "links": [
+    {
+      "target": "RE-E51K4R",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: modification after decision warns",
+  "type": "test-case",
+  "uuid": "c2ba4bd4-3daf-4db6-83d3-de052d343a75",
+  "version": 2
+}

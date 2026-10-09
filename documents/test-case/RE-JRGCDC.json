@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:75fb077880741631246ca756a131efe9e9a2a34fbc06e8df6ea76952455cb723",
+  "created": "2026-10-08T23:59:49Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-JRGCDC",
+  "links": [
+    {
+      "target": "RE-B2A308",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: unlinked identifier mentions warn",
+  "type": "test-case",
+  "uuid": "9620c6b2-cb82-43ef-b350-7fecb9a6f578",
+  "version": 2
+}

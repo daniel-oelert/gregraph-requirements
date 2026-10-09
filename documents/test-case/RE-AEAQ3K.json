@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:c2cb7321e63986d5b14d7fb0ac035208a2c11bcd4fd8bfe01edb5a26cc77fa84",
+  "created": "2026-10-08T23:59:47Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-AEAQ3K",
+  "links": [
+    {
+      "target": "RE-M89QMQ",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: scope entries record base versions",
+  "type": "test-case",
+  "uuid": "539571ce-8514-4555-b5da-2827566de05c",
+  "version": 3
+}

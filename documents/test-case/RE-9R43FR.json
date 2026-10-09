@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:8b9fd1b609d2a6693ec8a7064e7c7b453374c0017de7d962403de11865703c00",
+  "created": "2026-10-08T23:59:50Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-9R43FR",
+  "links": [
+    {
+      "target": "RE-7426ND",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: the hook ignores drift and CR scope changes",
+  "type": "test-case",
+  "uuid": "4e0837e1-f9d0-418d-b18b-d9963394f382",
+  "version": 2
+}

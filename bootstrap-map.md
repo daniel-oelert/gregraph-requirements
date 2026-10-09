@@ -55,3 +55,32 @@ Provisional design-appendix-A keys to generated GREGraph identifiers
 | BOOT-203 | RE-SDJ080 | non-functional-requirement | Core operations without console I/O |
 | BOOT-204 | RE-WSC7DQ | non-functional-requirement | Linux, macOS, and Windows on Python 3.12+ |
 | BOOT-205 | RE-S399BD | constraint | No network communication |
+| TC-100 | RE-X5V1N6 | test-case | Verify: init creates the layout, templates, config, and hook |
+| TC-101 | RE-B32EMX | test-case | Verify: identifiers are derived, prefixed, and regenerated on collision |
+| TC-102 | RE-F3BN1Z | test-case | Verify: identifiers are never reused |
+| TC-103 | RE-W5R00Y | test-case | Verify: documents are stored as Markdown plus JSON sidecar |
+| TC-104 | RE-55P0KR | test-case | Verify: cycle-creating links are refused with the cycle path |
+| TC-105 | RE-NA9KW7 | test-case | Verify: kind-rule violations are refused with the rule named |
+| TC-106 | RE-PND8HT | test-case | Verify: directed edges live on the source only |
+| TC-107 | RE-Z74XH5 | test-case | Verify: the pre-commit hook bumps staged changed documents |
+| TC-108 | RE-F9B68D | test-case | Verify: the pre-commit hook blocks newly outdated links |
+| TC-109 | RE-TB5FHP | test-case | Verify: sync bumps versions without Git |
+| TC-110 | RE-DE2A8Z | test-case | Verify: check reports the hook's findings without modifying files |
+| TC-111 | RE-0G4S9X | test-case | Verify: link refresh --follow follows supersession chains |
+| TC-112 | RE-9JFG6M | test-case | Verify: supersede accepts multiple targets |
+| TC-113 | RE-1585DT | test-case | Verify: documents are validated against their pinned template version |
+| TC-114 | RE-DDDN2V | test-case | Verify: deprecated template versions warn per document |
+| TC-115 | RE-RAX4QN | test-case | Verify: modification after decision warns |
+| TC-116 | RE-AEAQ3K | test-case | Verify: scope entries record base versions |
+| TC-117 | RE-WAGRQV | test-case | Verify: glossary terms are slug-identified with usage reports |
+| TC-118 | RE-2GX7F3 | test-case | Verify: validate --strict fails on any warning or error |
+| TC-119 | RE-ZH109K | test-case | Verify: status reports WIP, drafts, and unbumped modifications |
+| TC-120 | RE-ZBCJY6 | test-case | Verify: draft and active are derived from the baseline branch |
+| TC-121 | RE-P9Z6BJ | test-case | Verify: graph emits a styled Mermaid flowchart |
+| TC-122 | RE-XXWK6R | test-case | Verify: asset changes count as content changes |
+| TC-123 | RE-5JAF9N | test-case | Verify: missing arguments prompt or fail under --no-input |
+| TC-124 | RE-JRGCDC | test-case | Verify: unlinked identifier mentions warn |
+| TC-125 | RE-PSWVZY | test-case | Verify: scope drift warns while a change request is open or accepted |
+| TC-126 | RE-FJMW6P | test-case | Verify: origin_cr and introduces are recorded with --cr |
+| TC-127 | RE-T0C8C5 | test-case | Verify: effective change request status comes from the baseline branch |
+| TC-128 | RE-9R43FR | test-case | Verify: the hook ignores drift and CR scope changes |

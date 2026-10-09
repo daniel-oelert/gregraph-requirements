@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:a5f96b4295ea05c3fc924486677354cf538d058b8f769045dfbd23bfb69abaaa",
+  "created": "2026-10-08T23:59:48Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-5JAF9N",
+  "links": [
+    {
+      "target": "RE-HHFDHC",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: missing arguments prompt or fail under --no-input",
+  "type": "test-case",
+  "uuid": "2c94f4d5-5628-4cef-91b8-2c2efe9dc3a0",
+  "version": 2
+}

@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:30383d4decf43d6fa71781b2bab7bfdeab143fcc044a978d05f0884370a432a2",
+  "created": "2026-10-08T23:59:46Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-1585DT",
+  "links": [
+    {
+      "target": "RE-SPT65J",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: documents are validated against their pinned template version",
+  "type": "test-case",
+  "uuid": "095056eb-cad2-432d-b2bd-405c6c78ba60",
+  "version": 2
+}

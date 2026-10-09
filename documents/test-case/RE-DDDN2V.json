@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:88ad7688d6c8f20e77327856a58ae32fd3900c63973efae07a555d4f9d598fc2",
+  "created": "2026-10-08T23:59:46Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-DDDN2V",
+  "links": [
+    {
+      "target": "RE-9WB3XD",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: deprecated template versions warn per document",
+  "type": "test-case",
+  "uuid": "6b5b516d-fb2c-44b6-9d8b-215b67d4cde9",
+  "version": 2
+}

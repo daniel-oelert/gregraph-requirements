@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:d707509b4147178c34ff161cec736b35a56be0615177f533de3aae2d8d5616c8",
+  "created": "2026-10-08T23:59:48Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-P9Z6BJ",
+  "links": [
+    {
+      "target": "RE-SMRGJF",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: graph emits a styled Mermaid flowchart",
+  "type": "test-case",
+  "uuid": "b27e65ca-46bf-4521-b7ab-081d95ae9f59",
+  "version": 2
+}

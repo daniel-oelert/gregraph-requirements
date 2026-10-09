@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:d8d90009ef47d82fdcd116072be82c2bf30c8cae89c642441d54324f79e305ac",
+  "created": "2026-10-08T23:59:43Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-X5V1N6",
+  "links": [
+    {
+      "target": "RE-304X1P",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: init creates the layout, templates, config, and hook",
+  "type": "test-case",
+  "uuid": "e9761a9a-a25a-4bde-96f4-c523d75b5fe5",
+  "version": 2
+}
