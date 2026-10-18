@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:ed14bd8a2d5c977723680eead406ee6bd912c4962469de4eb74c0dd8705f147a",
+  "created": "2026-10-08T23:59:24Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-M89QMQ",
+  "links": [
+    {
+      "target": "RE-FEAT-0WHH13",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Scope entries record base versions",
+  "type": "functional-requirement",
+  "uuid": "a2137a5e-75b8-4030-ab9c-a939e6b0a041",
+  "version": 2
+}

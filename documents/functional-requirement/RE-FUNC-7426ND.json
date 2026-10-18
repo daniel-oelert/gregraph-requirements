@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:afb5dfc751b2688fe9c7c203f467437a4d5660ce8947765fb2c41c4f8cf6a249",
+  "created": "2026-10-08T23:59:27Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-7426ND",
+  "links": [
+    {
+      "target": "RE-FEAT-0WHH13",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "The hook ignores drift and CR scope changes",
+  "type": "functional-requirement",
+  "uuid": "39046ab7-f77b-4e51-8b6e-81762d78c9e6",
+  "version": 2
+}

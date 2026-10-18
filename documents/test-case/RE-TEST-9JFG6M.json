@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:82f18699379ca6d0bfa92a4ddd9babc2b0f72456a08a92da1c5f0b571d752829",
+  "created": "2026-10-08T23:59:46Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-9JFG6M",
+  "links": [
+    {
+      "target": "RE-FUNC-P6K34S",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: supersede accepts multiple targets",
+  "type": "test-case",
+  "uuid": "4c9f0350-7fe7-44dd-8f30-ebb01583c44c",
+  "version": 3
+}

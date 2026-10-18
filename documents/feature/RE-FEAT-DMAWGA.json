@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:a06f48ee312686b84bb3ed1e69068992d250103abd91e3ab7c4f165db45df3a9",
+  "created": "2026-10-08T23:59:19Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FEAT-DMAWGA",
+  "links": [
+    {
+      "target": "RE-GOAL-3KVA84",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "feature",
+    "version": 1
+  },
+  "title": "Status and WIP reporting derived from Git",
+  "type": "feature",
+  "uuid": "6d15c828-4a41-4dd1-9154-b39f95175947",
+  "version": 2
+}

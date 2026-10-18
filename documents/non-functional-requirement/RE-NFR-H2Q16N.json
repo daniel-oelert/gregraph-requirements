@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:83a72857449ca197b54665fe03fe1f580cdf23cf7163cef5f51cf6c4f2f0f307",
+  "created": "2026-10-08T23:59:28Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-NFR-H2Q16N",
+  "links": [
+    {
+      "target": "RE-GOAL-N33YEH",
+      "target_version": 2,
+      "type": "constrains"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Only pydantic, jinja2, and markdown-it-py at runtime",
+  "type": "non-functional-requirement",
+  "uuid": "88ae1355-1d4a-4fdd-880d-c4e525d7b2c2",
+  "version": 2
+}

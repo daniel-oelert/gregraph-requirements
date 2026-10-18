@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:dd75e8939bc5fe44d5bd8cb2f5620cba2f7a318ea494bf0ecec78a644aaf67cf",
+  "created": "2026-10-08T23:59:44Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-Z74XH5",
+  "links": [
+    {
+      "target": "RE-FUNC-FMVXC1",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: the pre-commit hook bumps staged changed documents",
+  "type": "test-case",
+  "uuid": "f9c9d896-c8bd-403b-90ce-2245f760389d",
+  "version": 2
+}

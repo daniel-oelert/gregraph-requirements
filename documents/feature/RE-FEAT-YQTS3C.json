@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:69ae5b43998b48bc553d2440d9f25ef2e3cd3396e28d3d67df0e9b567dd11c9e",
+  "created": "2026-10-08T23:59:19Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FEAT-YQTS3C",
+  "links": [
+    {
+      "target": "RE-GOAL-N33YEH",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "feature",
+    "version": 1
+  },
+  "title": "Mermaid graph export",
+  "type": "feature",
+  "uuid": "f5f591b1-f221-49ff-a6d8-55723ccd228f",
+  "version": 2
+}

@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:b96ac87e1bb29ac2f579e18f1064c58ff7f8d3560077eb689339a148dfea23eb",
+  "created": "2026-10-08T23:59:20Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-6BT22E",
+  "links": [
+    {
+      "target": "RE-FEAT-WYA8JY",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Identifiers are derived, prefixed, and regenerated on collision",
+  "type": "functional-requirement",
+  "uuid": "32f4213a-3abb-413b-b522-6a4e24ad468e",
+  "version": 3
+}

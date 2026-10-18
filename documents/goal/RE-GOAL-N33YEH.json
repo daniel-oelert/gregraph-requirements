@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "body_hash": "sha256:185a0385782853309c856b746d2f20caee0a56a37e6b85013652ce8e9d91260c",
+  "created": "2026-10-08T23:59:16Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-GOAL-N33YEH",
+  "links": [],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "goal",
+    "version": 1
+  },
+  "title": "Manage requirements as a Git-synchronised DAG",
+  "type": "goal",
+  "uuid": "a8c7e745-0024-49c5-aec2-87c1f5bc8823",
+  "version": 2
+}

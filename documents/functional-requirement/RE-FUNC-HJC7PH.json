@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:bb4a26c61cbe1326deaa3ebf05ebddfd710e219a163fbcee57ba6a14fabdb7f1",
+  "created": "2026-10-08T23:59:25Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-HJC7PH",
+  "links": [
+    {
+      "target": "RE-FEAT-DMAWGA",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "draft and active are derived from the baseline branch",
+  "type": "functional-requirement",
+  "uuid": "8c987b45-937c-4597-87ca-af4dcea7c127",
+  "version": 2
+}

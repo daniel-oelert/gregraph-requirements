@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:ad65cab3412eb68fbd8d1b410633f01f25e619fdcbd0483a91128c2ec2ff5a19",
+  "created": "2026-10-08T23:59:47Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-2GX7F3",
+  "links": [
+    {
+      "target": "RE-FUNC-3Y2KHH",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: validate --strict fails on any warning or error",
+  "type": "test-case",
+  "uuid": "143a778e-015e-46aa-a797-fedb99d40d3d",
+  "version": 2
+}

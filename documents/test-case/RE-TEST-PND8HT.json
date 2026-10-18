@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:ba54e90f410ea404767e25b6753737171e4fa42d0d9187c318625a6ca0f94d60",
+  "created": "2026-10-08T23:59:44Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-PND8HT",
+  "links": [
+    {
+      "target": "RE-FUNC-1033HC",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: directed edges live on the source only",
+  "type": "test-case",
+  "uuid": "b55a88ea-f488-48ea-b4b0-d99e6a6f3cf0",
+  "version": 2
+}

@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:b2e4eb1fd0a401bde20817301392f3de92f78763b07a95168d5f2d21b56a8f02",
+  "created": "2026-10-08T23:59:44Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-NA9KW7",
+  "links": [
+    {
+      "target": "RE-FUNC-6V9J08",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: kind-rule violations are refused with the rule named",
+  "type": "test-case",
+  "uuid": "aa933e1e-f7f9-4c62-ba69-528a17f43aca",
+  "version": 2
+}

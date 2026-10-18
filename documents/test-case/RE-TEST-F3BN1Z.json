@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:ea9ef49f56e5efb8e01158a90f6cf3327545113ff7094bbd7b7cf5377a0d77c5",
+  "created": "2026-10-08T23:59:43Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-F3BN1Z",
+  "links": [
+    {
+      "target": "RE-FUNC-EH4ZTP",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: identifiers are never reused",
+  "type": "test-case",
+  "uuid": "78d750ff-1623-4d05-af29-4c288a4ae227",
+  "version": 2
+}

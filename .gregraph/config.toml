@@ -1,6 +1,6 @@
 [gregraph]
-config_schema = 1
-tool_version = "0.1.1"
+config_schema = 2
+tool_version = "0.2.0"
 
 [ids]
 prefix = "RE"
@@ -21,54 +21,67 @@ max_size_kb = 5120
 [types.context]
 kind = "goal"
 template = "context"
+abbreviation = "CTX"
 
 [types.goal]
 kind = "goal"
 template = "goal"
+abbreviation = "GOAL"
 
 [types.epic]
 kind = "goal"
 template = "epic"
+abbreviation = "EPIC"
 
 [types.feature]
 kind = "requirement"
 template = "feature"
+abbreviation = "FEAT"
 
 [types.user-story]
 kind = "requirement"
 template = "user-story"
+abbreviation = "STORY"
 
 [types.functional-requirement]
 kind = "requirement"
 template = "requirement-ears"
+abbreviation = "FUNC"
 
 [types.non-functional-requirement]
 kind = "requirement"
 template = "requirement-ears"
+abbreviation = "NFR"
 
 [types.constraint]
 kind = "requirement"
 template = "constraint"
+abbreviation = "CON"
 
 [types.design]
 kind = "design"
 template = "design"
+abbreviation = "DSGN"
 
 [types.decision]
 kind = "design"
 template = "decision"
+abbreviation = "DEC"
 
 [types.test-case]
 kind = "verification"
 template = "test-case"
+abbreviation = "TEST"
 
 [types.stakeholder]
 kind = "information"
 template = "stakeholder"
+abbreviation = "STKH"
 
 [types.assumption]
 kind = "information"
 template = "assumption"
+abbreviation = "ASM"
 
 [cr]
 enabled = true

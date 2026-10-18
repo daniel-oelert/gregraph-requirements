@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:7f59fc7b377d78a80ca8c920a9113e3cd216e3c12ad0f67e269f09530a2f45b1",
+  "created": "2026-10-08T23:59:25Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-JR0NFT",
+  "links": [
+    {
+      "target": "RE-FEAT-YFEE3Q",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Asset changes count as content changes",
+  "type": "functional-requirement",
+  "uuid": "960157eb-45f6-4196-9911-1c07b5b6b0ff",
+  "version": 2
+}

@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:311c01b304d5a15fd3dde7e7249019b12c46922b4a802398194ad6ddfb8495b3",
+  "created": "2026-10-08T23:59:24Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-3Y2KHH",
+  "links": [
+    {
+      "target": "RE-FEAT-W3D1B7",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "validate --strict fails on any warning or error",
+  "type": "functional-requirement",
+  "uuid": "1f8538c4-dbd4-46d9-a841-aacb3729a300",
+  "version": 2
+}

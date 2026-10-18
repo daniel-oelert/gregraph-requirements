@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:2fdd559b0ac30d6d7c5f63f1022fbb29475e449d3bbd30d6e2e589e44ecdbd30",
+  "created": "2026-10-08T23:59:47Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-ZH109K",
+  "links": [
+    {
+      "target": "RE-FUNC-5KN0GA",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: status reports WIP, drafts, and unbumped modifications",
+  "type": "test-case",
+  "uuid": "fc4204cc-eed6-4b97-b65b-516bbe6d303b",
+  "version": 2
+}

@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:1541d7da947df77e7343de4205ac03e1432138cb78f32d6e01262dfb298c70c1",
+  "created": "2026-10-08T23:59:43Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-B32EMX",
+  "links": [
+    {
+      "target": "RE-FUNC-6BT22E",
+      "target_version": 3,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: identifiers are derived, prefixed, and regenerated on collision",
+  "type": "test-case",
+  "uuid": "58c4ea74-ef8e-4549-98ca-a59b86f4c40e",
+  "version": 3
+}

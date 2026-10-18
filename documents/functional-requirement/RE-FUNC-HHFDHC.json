@@ -1,0 +1,35 @@
+{
+  "assets": [],
+  "body_hash": "sha256:9f211d8e8207021503b940566006e70ffc791ae4f801182698a4fb0c376eca70",
+  "created": "2026-10-08T23:59:25Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-HHFDHC",
+  "links": [
+    {
+      "target": "RE-FEAT-CQCF1R",
+      "target_version": 2,
+      "type": "refines"
+    },
+    {
+      "target": "RE-FEAT-WYA8JY",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Missing arguments prompt or fail under --no-input",
+  "type": "functional-requirement",
+  "uuid": "8c5ed8b2-150a-44af-a83d-6e4b2630e4d9",
+  "version": 2
+}

@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:153ce80953d61ec1d80d8bf89093dced840b5e80c41fec278f546024595e7c02",
+  "created": "2026-10-18T02:33:49Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-D9NE6A",
+  "links": [
+    {
+      "target": "RE-FUNC-ZS9TCM",
+      "target_version": 1,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: identifiers include the configured type abbreviation",
+  "type": "test-case",
+  "uuid": "6a6ae32a-91c9-43ef-8172-e7631fdcc80e",
+  "version": 1
+}

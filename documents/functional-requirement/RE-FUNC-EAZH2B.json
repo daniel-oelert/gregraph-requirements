@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:063a02c88d6c841c79c90459dd99c6786ebe607ae97b10a05437f62888ebc0d9",
+  "created": "2026-10-08T23:59:22Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-EAZH2B",
+  "links": [
+    {
+      "target": "RE-FEAT-15HB08",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "link refresh --follow follows supersession chains",
+  "type": "functional-requirement",
+  "uuid": "72bf112d-2aba-47bb-816d-456f00ec0467",
+  "version": 2
+}

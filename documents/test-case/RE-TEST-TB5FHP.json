@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:1a6fa1be900dc803198a61b801354f12b586f69fbb130a5b6dbad845665b31fe",
+  "created": "2026-10-08T23:59:45Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-TB5FHP",
+  "links": [
+    {
+      "target": "RE-FUNC-5JQ3QE",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: sync bumps versions without Git",
+  "type": "test-case",
+  "uuid": "d2caf8db-0044-4564-b3db-f6b54268fe02",
+  "version": 2
+}

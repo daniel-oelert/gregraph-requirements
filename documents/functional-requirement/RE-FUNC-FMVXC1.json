@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:ddf4baaf6b828cde13207c70b387e03b8199dd85c21ce1c33cf93b12fae1af03",
+  "created": "2026-10-08T23:59:21Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-FMVXC1",
+  "links": [
+    {
+      "target": "RE-FEAT-3KMQ1Y",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "The pre-commit hook bumps staged changed documents",
+  "type": "functional-requirement",
+  "uuid": "7d37d605-3068-4e9c-9468-b7ba3c51a165",
+  "version": 2
+}

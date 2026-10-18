@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:010a8a796f5ca4afb72c3f487cf27040097d489a7a3e2d5d9a8b3cfd4eaf12a7",
+  "created": "2026-10-08T23:59:49Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-FJMW6P",
+  "links": [
+    {
+      "target": "RE-FUNC-WR1S6W",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: origin_cr and introduces are recorded with --cr",
+  "type": "test-case",
+  "uuid": "7ca9c359-a5b0-4320-9a62-6461101d86a4",
+  "version": 2
+}

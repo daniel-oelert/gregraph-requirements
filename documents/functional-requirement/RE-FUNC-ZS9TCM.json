@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:7d3bae44411db77f10cf5ad0ab5e327eab2496c3c0aeaaedf2555c1aee258476",
+  "created": "2026-10-18T02:33:35Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-ZS9TCM",
+  "links": [
+    {
+      "target": "RE-FUNC-6BT22E",
+      "target_version": 3,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Identifiers include the configured type abbreviation",
+  "type": "functional-requirement",
+  "uuid": "fe53a653-6034-4728-82ac-c7a194d7a9a5",
+  "version": 1
+}

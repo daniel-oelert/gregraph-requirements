@@ -1,0 +1,35 @@
+{
+  "assets": [],
+  "body_hash": "sha256:d623f6c3479c5e86361e3c8f24aad5e1759fa9b325d745332c8633c5dcdcaf5f",
+  "created": "2026-10-08T23:59:26Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-VSNXNW",
+  "links": [
+    {
+      "target": "RE-FEAT-0WHH13",
+      "target_version": 2,
+      "type": "refines"
+    },
+    {
+      "target": "RE-GOAL-3KVA84",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Scope drift warns while a change request is open or accepted",
+  "type": "functional-requirement",
+  "uuid": "de6bdaf3-aef6-4c6d-a091-be108922363c",
+  "version": 2
+}

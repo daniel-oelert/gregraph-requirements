@@ -1,0 +1,35 @@
+{
+  "assets": [],
+  "body_hash": "sha256:88849d6e23e8224ef1db669879d8adff56c0839f1da8dcb32e18170732b8a3a4",
+  "created": "2026-10-08T23:59:23Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-SPT65J",
+  "links": [
+    {
+      "target": "RE-FEAT-15HB08",
+      "target_version": 2,
+      "type": "refines"
+    },
+    {
+      "target": "RE-FEAT-W3D1B7",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Documents are validated against their pinned template version",
+  "type": "functional-requirement",
+  "uuid": "cdb462c9-cf5d-447b-9a5b-6f4669e2b63f",
+  "version": 2
+}

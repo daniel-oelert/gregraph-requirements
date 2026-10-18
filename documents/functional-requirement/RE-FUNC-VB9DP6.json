@@ -1,0 +1,35 @@
+{
+  "assets": [],
+  "body_hash": "sha256:70d967cbe45866e2da5d8f6ae80a6e4d13111251318d7f074feab088c51f20a2",
+  "created": "2026-10-08T23:59:22Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-VB9DP6",
+  "links": [
+    {
+      "target": "RE-FEAT-3KMQ1Y",
+      "target_version": 2,
+      "type": "refines"
+    },
+    {
+      "target": "RE-FEAT-W3D1B7",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "check reports the hook's findings without modifying files",
+  "type": "functional-requirement",
+  "uuid": "dad2db18-ed90-43cb-be0a-5a82781b687c",
+  "version": 2
+}

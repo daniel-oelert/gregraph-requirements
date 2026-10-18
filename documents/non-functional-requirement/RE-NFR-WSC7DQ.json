@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:0a4c06fdf91cd9e111afcce90ab665def35ecd9e0c706b015bfe7f59fdb690e6",
+  "created": "2026-10-08T23:59:28Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-NFR-WSC7DQ",
+  "links": [
+    {
+      "target": "RE-GOAL-W6ZR5V",
+      "target_version": 2,
+      "type": "constrains"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "Linux, macOS, and Windows on Python 3.12+",
+  "type": "non-functional-requirement",
+  "uuid": "e65876dd-ec50-4184-95a3-4cc3e3ba46a6",
+  "version": 2
+}

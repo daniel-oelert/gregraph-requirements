@@ -1,0 +1,35 @@
+{
+  "assets": [],
+  "body_hash": "sha256:eb2ffe5ee13856e522365456a311627d377b97ac9110d2b625f20e1a2f3b3093",
+  "created": "2026-10-08T23:59:18Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FEAT-15HB08",
+  "links": [
+    {
+      "target": "RE-GOAL-3KVA84",
+      "target_version": 2,
+      "type": "refines"
+    },
+    {
+      "target": "RE-GOAL-N33YEH",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "feature",
+    "version": 1
+  },
+  "title": "Supersession, deprecation, and template migration",
+  "type": "feature",
+  "uuid": "0962b021-d25f-4695-9b77-6e7f320d9d24",
+  "version": 2
+}

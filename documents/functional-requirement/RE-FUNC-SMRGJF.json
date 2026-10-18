@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:2768b60a6cdb66e6f179d2b6f21f19c0089349001176093f58a175830b95e33b",
+  "created": "2026-10-08T23:59:25Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-FUNC-SMRGJF",
+  "links": [
+    {
+      "target": "RE-FEAT-YQTS3C",
+      "target_version": 2,
+      "type": "refines"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "requirement-ears",
+    "version": 1
+  },
+  "title": "graph emits a styled Mermaid flowchart",
+  "type": "functional-requirement",
+  "uuid": "cd31093d-0189-43e1-ab33-2e78417afd00",
+  "version": 2
+}

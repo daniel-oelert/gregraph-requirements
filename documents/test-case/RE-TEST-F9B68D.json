@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "body_hash": "sha256:9c7ae93809999290f5977708ed6cc715d51321c58f02a636f616a5ac31aed407",
+  "created": "2026-10-08T23:59:45Z",
+  "created_by": {
+    "email": "daniel.oelert@outlook.com",
+    "name": "Daniel Oelert"
+  },
+  "deprecated": null,
+  "extra": {},
+  "id": "RE-TEST-F9B68D",
+  "links": [
+    {
+      "target": "RE-FUNC-BWBF33",
+      "target_version": 2,
+      "type": "verifies"
+    }
+  ],
+  "origin_cr": null,
+  "schema": 1,
+  "tags": [],
+  "template": {
+    "name": "test-case",
+    "version": 1
+  },
+  "title": "Verify: the pre-commit hook blocks newly outdated links",
+  "type": "test-case",
+  "uuid": "7a566435-24ee-4db3-b685-ab3b9cc92e59",
+  "version": 2
+}
